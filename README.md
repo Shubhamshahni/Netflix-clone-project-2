@@ -7,8 +7,11 @@ Check it out and let me know your thoughts! 🌟
 
 
 
-![Screenshot 2024-12-17 155333](https://github.com/user-attachments/assets/42a49639-f573-4ea4-b750-eb14650b1c6d)
-![Screenshot 2024-12-17 155352](https://github.com/user-attachments/assets/d5f6b9fe-58db-4f32-9e5e-f11e176ea329)
-![Screenshot 2024-12-17 155414](https://github.com/user-attachments/assets/63c5c543-7e61-4173-95b4-c4fbfdbb657d)
-![Screenshot 2024-12-17 155448](https://github.com/user-attachments/assets/bd211544-016e-4d03-a530-19458ae3a0fe)
-![Screenshot 2024-12-17 155512](https://github.com/user-attachments/assets/a5430fdd-7bec-4df5-875b-98f20cea728a)
+
+![Screenshot 2024-12-17 160451](https://github.com/user-attachments/assets/448301ae-3e20-4656-b7aa-cad839b6256e)
+![Screenshot 2024-12-17 160511](https://github.com/user-attachments/assets/48c24027-d50b-4a34-9b4e-44ff1097f024)
+![Screenshot 2024-12-17 160529](https://github.com/user-attachments/assets/6c166313-3b97-4e75-8cbc-741aef2e6074)
+![Screenshot 2024-12-17 160547](https://github.com/user-attachments/assets/bd0c0232-7813-46a6-870c-c833976e3c50)
+![Screenshot 2024-12-17 160605](https://github.com/user-attachments/assets/9f1bc793-d878-4dc2-8136-af0bb0fb699b)
+![Screenshot 2024-12-17 160628](https://github.com/user-attachments/assets/3aaaa690-7dcb-4915-891d-635a03cabc08)
+![Screenshot 2024-12-17 160643](https://github.com/user-attachments/assets/cafea6a9-8d0d-470a-b3b9-9d1de02471e4)
